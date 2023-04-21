@@ -1,0 +1,7 @@
+apiVersion: ishikabhosale.dev/v1alpha1
+kind: Customcluster
+metadata:
+  name: cpod-ff
+spec:
+  message: "Welcome to this Custom Resource"
+  count: 3
